@@ -17,5 +17,5 @@ lshw
 
 inxi
 
-neofetch
+#neofetch
 fastfetch
