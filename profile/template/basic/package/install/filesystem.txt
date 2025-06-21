@@ -15,6 +15,7 @@ gvfs-backends
 gvfs-fuse
 
 
+e2fsprogs
 exfatprogs
 
 
