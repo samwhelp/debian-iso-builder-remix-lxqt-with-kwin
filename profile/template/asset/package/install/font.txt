@@ -11,8 +11,8 @@
 ## ## Package / Font / Ubuntu
 ##
 
-fonts-ubuntu
-fonts-ubuntu-console
+#fonts-ubuntu
+#fonts-ubuntu-console
 
 
 
