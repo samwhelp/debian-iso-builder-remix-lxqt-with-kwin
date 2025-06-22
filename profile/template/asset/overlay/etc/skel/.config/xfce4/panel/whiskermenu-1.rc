@@ -1,4 +1,4 @@
-favorites=sakura.desktop,mousepad.desktop,firefox.desktop,pcmanfm-qt.desktop,gedit.desktop,nautilus.desktop,filezilla.desktop,thunderbird.desktop,xfce4-terminal.desktop,thunar.desktop,xfce-wm-settings.desktop,xfce-ui-settings.desktop,gnome-terminal.desktop,qterminal.desktop,com.gexperts.Tilix.desktop
+favorites=sakura.desktop,mousepad.desktop,firefox-esr.desktop,pcmanfm-qt.desktop,gedit.desktop,nautilus.desktop,filezilla.desktop,thunderbird.desktop,xfce4-terminal.desktop,thunar.desktop,xfce-wm-settings.desktop,xfce-ui-settings.desktop,gnome-terminal.desktop,qterminal.desktop,com.gexperts.Tilix.desktop
 recent=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-web-browser.desktop,exo-mail-reader.desktop
 button-title=Applications
 button-icon=start-here
