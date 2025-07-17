@@ -50,12 +50,12 @@ qt6-style-kvantum-l10n
 
 
 ##
-## ## Package / qt5ct
+## ## Package / qt5ct, qt6ct
 ##
 
 #qt5ct
 
-#qt6ct
+qt6ct
 
 
 
