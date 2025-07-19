@@ -23,5 +23,4 @@ ntfs-3g
 
 
 dos2unix
-dosbox
 dosfstools
