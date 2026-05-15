@@ -13,16 +13,19 @@
 
 git
 
+make
+
 build-essential
 
+dpkg-dev
 debhelper
 
+debootstrap
 live-build
 xorriso
 squashfs-tools
 genisoimage
 
-debootstrap
 parted
 
 less
