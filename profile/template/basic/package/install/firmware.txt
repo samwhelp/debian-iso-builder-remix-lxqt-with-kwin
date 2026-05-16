@@ -8,7 +8,7 @@
 
 
 ##
-## ## Package / dkms
+## ## Package / Dkms
 ##
 
 dkms
